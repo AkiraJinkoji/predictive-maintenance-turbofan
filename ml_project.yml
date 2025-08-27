@@ -1,0 +1,36 @@
+name: my_ml_env
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - ca-certificates==2025.6.15
+  - defaults/noarch::tzdata==2025b=h04d1e81_0
+  - defaults/win-64::vs2015_runtime==14.42.34433=hbfb602d_5
+  - defaults/win-64::vc==14.42=haa95532_5
+  - defaults/win-64::bzip2==1.0.8=h2bbff1b_6
+  - defaults/win-64::expat==2.7.1=h8ddb27b_0
+  - defaults/win-64::libffi==3.4.4=hd77b12b_1
+  - openssl==3.1.0
+  - defaults/win-64::sqlite==3.45.3=h2bbff1b_0
+  - defaults/win-64::xz==5.6.4=h4754444_1
+  - defaults/win-64::zlib==1.2.13=h8cc25b3_1
+  - defaults/win-64::tk==8.6.14=h5e9d12e_1
+  - python==3.9.23
+  - setuptools==78.1.1
+  - wheel==0.45.1
+  - defaults/noarch::pip==25.1=pyhc872135_2
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - tsfresh
+  - sktime
+  - nbconvert
+  - ngboost
+prefix: C:\Users\User\anaconda\envs\my_ml_env
