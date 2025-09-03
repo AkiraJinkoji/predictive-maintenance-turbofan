@@ -4,7 +4,7 @@
 
 ## Problem Definition
 Predictive maintenance is a critical task in aerospace engineering. The global commercial fleet counts more than 27,000 aircraft, nearly all powered by turbofan engines. Even with high reliability, in-flight shutdowns occur about once every 375,000 flight hours, which translates into multiple incidents each year across the global fleet
-. The goal of this project is to **predict the Remaining Useful Life (RUL) of turbofan engines using sensor data**, enabling early detection of degradation and reducing unexpected failures.
+. The goal of this project is to **predict the Remaining Useful Life (RUL) of turbofan engines using sensor data**, enabling early detection of degradation and reducing unexpected failures. This project was completed with a team of 4 other graduate students as part of CS7641 - Machine Learning at Georgia Tech.
 
 We use the **NASA C-MAPSS dataset** for simulation of engine degradation under various operating conditions and fault modes.  
 Dataset link: [NASA C-MAPSS Dataset](https://data.nasa.gov/dataset/C-MAPSS-Aircraft-Engine-Simulator-Data/ff5v-kuh6)
